@@ -133,12 +133,16 @@ address {
   background-color: transparent;
   border: 1px solid #ffffff;
   font-weight: 500;
-  font-style: Medium;
   font-size: 22px;
   line-height: 100%;
   text-align: center;
   text-transform: uppercase;
+  text-decoration: none;
+  word-spacing: normal;
   color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .button:hover {
